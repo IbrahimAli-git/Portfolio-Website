@@ -1,4 +1,4 @@
-# Coding Challenge
+# Portfolio Website
 
 ## Key Topics:
 1. Project Description  
