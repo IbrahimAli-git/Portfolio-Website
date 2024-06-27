@@ -17,7 +17,7 @@ This is my portfolio website in which I have several completed applications show
 5. Right click your mouse, and open the file using Live Server
 
 ## Collaborators  
-Ibrahim Ali - c0046944@hallam.shu.ac.uk  
+Ibrahim Ali - ibrahimali139@hotmail.com  
 
 ## References
 - https://youtu.be/ocdwh0KYeUs?feature=shared
